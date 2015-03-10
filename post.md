@@ -141,7 +141,7 @@ action:
 
 ## How does it work?
 
-I wrote quite extensively in [Section 3 of](https://www.airpair.com/social-authoring#3-what-we-built) of the
+I wrote quite extensively in [Section 3 ](https://www.airpair.com/social-authoring#3-what-we-built) of the
 full post, but I'll see if I can summarise here.
 
 ![Social Authoring](https://www.airpair.com/static/img/pages/posts/authoring-flow.png)
@@ -184,7 +184,7 @@ higher quality technical writing than every before!
 
 ### Win cash prizes for great posts
 
-[If you haven't see yet, checkout our writing competition ![Start a post](https://pbs.twimg.com/media/B_NgSRgU4AArD7k.png:large)](https://airpair.com/100k-writing-competition)
+[If you haven't see yet, checkout our writing competition: ![Start a post](https://pbs.twimg.com/media/B_NgSRgU4AArD7k.png:large)](https://airpair.com/100k-writing-competition)
 
 ### Authoring posts
 
